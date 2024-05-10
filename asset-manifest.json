@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react_hera/static/css/main.77b0aeb1.css",
+    "main.js": "/react_hera/static/js/main.9036fe60.js",
+    "static/js/453.3d21d5f5.chunk.js": "/react_hera/static/js/453.3d21d5f5.chunk.js",
+    "static/media/NotoSansKR-Bold.woff": "/react_hera/static/media/NotoSansKR-Bold.add3713e113c6a5441b7.woff",
+    "static/media/NotoSansKR-SemiBold.woff": "/react_hera/static/media/NotoSansKR-SemiBold.2a1db6e2fcd36a900dbc.woff",
+    "static/media/NotoSansKR-Medium.woff": "/react_hera/static/media/NotoSansKR-Medium.92132e36cdaed4fe2071.woff",
+    "static/media/NotoSansKR-Regular.woff": "/react_hera/static/media/NotoSansKR-Regular.6b7c5bd56919f7ab2d8a.woff",
+    "static/media/NotoSansKR-Light.woff": "/react_hera/static/media/NotoSansKR-Light.6e7dd008c9464f83f737.woff",
+    "static/media/NotoSansKR-Thin.woff": "/react_hera/static/media/NotoSansKR-Thin.abbd800ac1e08f0cb90c.woff",
+    "static/media/Pretendard-Black.woff": "/react_hera/static/media/Pretendard-Black.730f2a0ae28ac50dfaed.woff",
+    "static/media/Pretendard-Bold.woff": "/react_hera/static/media/Pretendard-Bold.ad09264b34263324e76a.woff",
+    "static/media/Pretendard-Medium.woff": "/react_hera/static/media/Pretendard-Medium.88778465719db573013a.woff",
+    "static/media/Pretendard-Light.woff": "/react_hera/static/media/Pretendard-Light.6ba9e47a6ae8e77bb4b1.woff",
+    "static/media/Pretendard-ExtraLight.woff": "/react_hera/static/media/Pretendard-ExtraLight.dd17426a1e0d7d6a065d.woff",
+    "static/media/Pretendard-SemiBold.woff": "/react_hera/static/media/Pretendard-SemiBold.3ac907410a32e17fc656.woff",
+    "static/media/Pretendard-Regular.woff": "/react_hera/static/media/Pretendard-Regular.d3a4cb6655f1155dc233.woff",
+    "static/media/Pretendard-Thin.woff": "/react_hera/static/media/Pretendard-Thin.1f37900c0879a9bf3c6e.woff",
+    "static/media/NotoSans-SemiBold.woff": "/react_hera/static/media/NotoSans-SemiBold.bf6497f69273001ff70c.woff",
+    "static/media/NotoSans-Medium.woff": "/react_hera/static/media/NotoSans-Medium.875f52cc91b0223226f4.woff",
+    "static/media/NotoSans-ExtraLight.woff": "/react_hera/static/media/NotoSans-ExtraLight.c0d597eaeb891c89d902.woff",
+    "static/media/NotoSans-Black.woff": "/react_hera/static/media/NotoSans-Black.c83c746a299e45b09842.woff",
+    "static/media/NotoSans-Regular.woff": "/react_hera/static/media/NotoSans-Regular.6d37c002a25b7ad65b4e.woff",
+    "static/media/NotoSans-Bold.woff": "/react_hera/static/media/NotoSans-Bold.8c2b20db5ef25504167a.woff",
+    "static/media/NotoSans-Thin.woff": "/react_hera/static/media/NotoSans-Thin.cd144489cf61966cb45a.woff",
+    "static/media/NotoSansKR_Black.woff": "/react_hera/static/media/NotoSansKR_Black.46f745615cbdd0e192c5.woff",
+    "index.html": "/react_hera/index.html",
+    "main.77b0aeb1.css.map": "/react_hera/static/css/main.77b0aeb1.css.map",
+    "main.9036fe60.js.map": "/react_hera/static/js/main.9036fe60.js.map",
+    "453.3d21d5f5.chunk.js.map": "/react_hera/static/js/453.3d21d5f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b0aeb1.css",
+    "static/js/main.9036fe60.js"
+  ]
+}
